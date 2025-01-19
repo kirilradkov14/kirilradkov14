@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-### **Blockchain / Web3**
+### **Web3**
 
 ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![Foundry Badge](https://img.shields.io/badge/-Foundry-blueviolet)
@@ -27,7 +27,7 @@
 ![viem Badge](https://img.shields.io/badge/-viem-black)
 ![wagmi Badge](https://img.shields.io/badge/-wagmi-00BDB3)
 
-### **Web2 / Full-Stack**
+### **Web2**
 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -43,9 +43,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilradkov14&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilradkov14&layout=compact&theme=radical)
-
-<!-- Profile Views Count -->
-![Profile Views](https://komarev.com/ghpvc/?username=kirilradkov14&color=blue)
 
 ---
 
