@@ -1,49 +1,44 @@
-<!-- Banner -->
-<img width="100%" src="https://user-images.githubusercontent.com/.../your-custom-banner.png" alt="Blockchain & Software Engineer Banner" />
+<!-- Banner (Optional) -->
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/.../your-banner.png" alt="Blockchain & Software Engineer" /> -->
 
-<h1 align="center">Blockchain & Software Engineer</b> | <b>Web3 Enthusiast</b> | <b>Full-Stack Developer</b</h1>
+<h1 align="center">Blockchain & Software Engineer</h1>
 
 <!-- Badges (Optional) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-white?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/kiril-radkov-a85745347/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ## About Me
 
-- 🚀 **Web3 Focus**: Solidity, Foundry, Hardhat, L1 & L2 solutions (Ethereum, Polygon, Arbitrum, etc.)
-- 🏗️ **Smart Contracts**: Knowledge in upgradeable contracts, tokenomics (ERC-20, ERC-721), and secure smart contract development.
-- 🛠️ **Web2 Expertise**: Node.js, Express, NestJS, Prisma, PostgreSQL
-- 💡 **Passion**: Building innovative dApps, bridging traditional web solutions with decentralized architecture, exploring zero-knowledge proofs
-- 🔍 **Always Learning**: Evolving DeFi protocols, cross-chain interoperability, novel consensus mechanisms
+- 🚀 **Building**:  
+  Currently focusing on **Layer 2** solutions (Optimism, Arbitrum), **account abstraction** dApps, and **gas-optimized** smart contracts. Leveraging **ethers.js**, **viem**, and **wagmi** in **Next.js** frontends for modern Web3 user experiences. Exploring **cross-chain** messaging, **zero-knowledge** rollups, and advanced **DeFi** mechanics (staking, yield farming, and liquidity management).
+
+- 💡 **Passion**: DeFi, Smart Contract Security, AI/LLM in Web3, Zero-Knowledge Proof  
+- 🔍 **Always Learning**: Rust, Solana, Account Abstraction
+
+---
 
 ## Tech Stack
 
-**Blockchain / Web3**  
+### **Blockchain / Web3**
+
 ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![Foundry Badge](https://img.shields.io/badge/-Foundry-blueviolet)
 ![Hardhat Badge](https://img.shields.io/badge/-Hardhat-FFCF00?logo=hardhat&logoColor=black)
-![EVM Badge](https://img.shields.io/badge/EVM-compatible-green)
-![L2 Badge](https://img.shields.io/badge/L2-Optimistic_Arbitrum-informational)
+![ethers.js Badge](https://img.shields.io/badge/-ethers.js-4C46E6?logo=ethereum&logoColor=white)
+![viem Badge](https://img.shields.io/badge/-viem-black)
+![wagmi Badge](https://img.shields.io/badge/-wagmi-00BDB3)
 
-**Web2 / Full-Stack**  
+### **Web2 / Full-Stack**
+
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-## Featured Projects
-
-1. **Project Name**  
-   - A DeFi yield aggregator on Ethereum L2. 
-   - **Repo**: [GitHub Link](#)
-   - **Live Demo**: [Demo Link](#)
-
-2. **Another Project**  
-   - NFT marketplace with advanced auction mechanisms & IPFS integration. 
-   - **Repo**: [GitHub Link](#)
-   - **Live Demo**: [Demo Link](#)
+---
 
 ## GitHub Stats
 
@@ -51,10 +46,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilradkov14&layout=compact&theme=radical)
 
 <!-- Profile Views Count -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=kirilradkov14&color=blue)
+
+---
 
 ## Get in Touch
 
-- **Twitter**: [@yourhandle](#)
-
----
+- **Twitter**: [@kiril_radkov](https://twitter.com/kiril_radkov)
