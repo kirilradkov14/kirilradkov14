@@ -1,13 +1,3 @@
-<!-- Banner (Optional) -->
-<!-- <img width="100%" src="https://user-images.githubusercontent.com/.../your-banner.png" alt="Blockchain & Software Engineer" /> -->
-
-<h1 align="center">👋🏻 Blockchain & Software Engineer</h1>
-
-<!-- Badges (Optional) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kiril-radkov-a85745347/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
-</p>
-
 ## What I do
 
 - 📝 **Write**: Smart Contracts on Ethereum
@@ -43,7 +33,7 @@
 
 ### 🚀 **Presale Smart Contract - Crowdfunding ICO**
 🔗 [GitHub Repo](https://github.com/kirilradkov14/presale-contract)  
-A decentralized **Presale Smart Contract** smart contract designed to handled decentralized Initial Coin Offerings for ERC20 Tokens on EVM.  
+A decentralized **Presale Smart Contract** designed to handled decentralized Initial Coin Offerings for ERC20 Tokens on EVM.  
 🛠️ **Solidity | Hardhat | ethers.js**
 
 ---
