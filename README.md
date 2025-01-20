@@ -8,11 +8,12 @@
   <a href="https://www.linkedin.com/in/kiril-radkov-a85745347/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
 </p>
 
-## About Me
+## What I do
 
-- 🚀 **Building**: Smart Contracts and DeFi dApps
-- 💡 **Passion**: DeFi, Smart Contract Security, AI/LLM in Web3, Zero-Knowledge Proof  
-- 🔍 **Always Learning**: Rust, Solana, Account Abstraction
+- 📝 **Write**: Smart Contracts on Ethereum
+- 💸 **Build**: Scalable DeFi dApps and Architectures
+- 🔍 **Discover**: Smart Contract Security Vulnerabilities
+- 🤖 **Learn**: AI/LLM solutions and use cases for Web3
 
 ---
 
@@ -36,6 +37,14 @@
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
+---
+
+## 💻 Featured Projects
+
+### 🚀 **Presale Smart Contract - Crowdfunding ICO**
+🔗 [GitHub Repo](https://github.com/kirilradkov14/presale-contract)  
+A decentralized **Presale Smart Contract** smart contract designed to handled decentralized Initial Coin Offerings for ERC20 Tokens on EVM.  
+🛠️ **Solidity | Hardhat | ethers.js**
 
 ---
 
