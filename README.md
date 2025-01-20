@@ -29,9 +29,9 @@
 
 ---
 
-## 💻 Featured Projects
+## 💻 Projects
 
-### 🚀 **Presale Smart Contract - Crowdfunding ICO**
+### 🚀 **Presale Smart Contract (ICO)**
 🔗 [GitHub Repo](https://github.com/kirilradkov14/presale-contract)  
 A decentralized **Presale Smart Contract** designed to handled decentralized Initial Coin Offerings for ERC20 Tokens on EVM.  
 🛠️ **Solidity | Hardhat | ethers.js**
@@ -46,4 +46,4 @@ A decentralized **Presale Smart Contract** designed to handled decentralized Ini
 
 ## Get in Touch
 
-- **Twitter**: [@kiril_radkov](https://twitter.com/kiril_radkov)
+- **X**: [@kiril_radkov](https://twitter.com/kiril_radkov)
