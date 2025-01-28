@@ -1,9 +1,9 @@
 ## What I do
 
-- 📝 **Write**: Smart Contracts on Ethereum
-- 💸 **Build**: Scalable DeFi dApps and Architectures
-- 🔍 **Discover**: Smart Contract Security Vulnerabilities
-- 🤖 **Learn**: AI/LLM solutions and Use Cases for Web3
+- 📝 **Write** Smart Contracts on Ethereum
+- 💸 **Build** Scalable DeFi dApps and Architectures
+- 🔍 **Discover** Smart Contract Security Vulnerabilities
+- 🤖 **Explore** AI/LLM Solutions and Use Cases for Web3
 
 ---
 
