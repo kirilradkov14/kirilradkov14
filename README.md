@@ -39,7 +39,6 @@ A decentralized **Presale Smart Contract** designed to handled decentralized Ini
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilradkov14&layout=compact&theme=nightowl)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kirilradkov14&theme=nightowl)
 
 ---
 
