@@ -1,31 +1,29 @@
-## What I do
+## 🔧 What I Do
 
-- 📝 **Write** Smart Contracts on Ethereum
-- 💸 **Build** Scalable DeFi dApps and Architectures
-- 🔍 **Discover** Smart Contract Security Vulnerabilities
-- 🤖 **Explore** AI/LLM Solutions and Use Cases for Web3
+- 🛠 **Smart Contract Development:** Design and deploy secure, gas-optimized contracts on Ethereum.
+- 📈 **DeFi Architecture:** Build scalable dApps with modular backend systems for tokenomics, liquidity, and governance.
+- 🔒 **Security Auditing:** Identify and mitigate vulnerabilities in EVM-based protocols (e.g., reentrancy, oracle manipulation).
+- 🤖 **AI x Web3:** Integrate LLMs for smart contract analysis, user onboarding, and automated threat detection.
 
 ---
 
 ## Tech Stack
 
 ### **Web3**
-
-![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Foundry Badge](https://img.shields.io/badge/-Foundry-blueviolet)
-![Hardhat Badge](https://img.shields.io/badge/-Hardhat-FFCF00?logo=hardhat&logoColor=black)
-![ethers.js Badge](https://img.shields.io/badge/-ethers.js-4C46E6?logo=ethereum&logoColor=white)
-![viem Badge](https://img.shields.io/badge/-viem-black)
-![wagmi Badge](https://img.shields.io/badge/-wagmi-00BDB3)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FF5A00?logo=foundry&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFCF00?logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/ethers.js-4C46E6?logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/viem-000000?logo=viem&logoColor=white) 
+![Wagmi](https://img.shields.io/badge/wagmi-00BDB3?logo=wagmi&logoColor=white)
 
 ### **Web2**
-
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
@@ -40,7 +38,8 @@ A decentralized **Presale Smart Contract** designed to handled decentralized Ini
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilradkov14&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilradkov14&layout=compact&theme=nightowl)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kirilradkov14&theme=nightowl)
 
 ---
 
