@@ -1,7 +1,5 @@
 ## 🔧 What I Do
 
-## What I do
-
 - 📝 **Write** Smart Contracts on Ethereum
 - 💸 **Build** Scalable DeFi Architecture and dApps
 - 🔍 **Discover** Smart Contract Security Vulnerabilities
