@@ -1,9 +1,11 @@
 ## 🔧 What I Do
 
-- 🛠 **Smart Contract Development:** Design and deploy secure, gas-optimized contracts on Ethereum.
-- 📈 **DeFi Architecture:** Build scalable dApps with modular backend systems for tokenomics, liquidity, and governance.
-- 🔒 **Security Auditing:** Identify and mitigate vulnerabilities in EVM-based protocols (e.g., reentrancy, oracle manipulation).
-- 🤖 **AI x Web3:** Integrate LLMs for smart contract analysis, user onboarding, and automated threat detection.
+## What I do
+
+- 📝 **Write** Smart Contracts on Ethereum
+- 💸 **Build** Scalable DeFi Architecture and dApps
+- 🔍 **Discover** Smart Contract Security Vulnerabilities
+- 🤖 **Explore** AI/LLM Solutions and Use Cases for Web3
 
 ---
 
