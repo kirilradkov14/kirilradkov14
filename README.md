@@ -3,7 +3,7 @@
 - 📝 **Write** Smart Contracts on Ethereum
 - 💸 **Build** Scalable DeFi Architecture and dApps
 - 🔍 **Discover** Smart Contract Security Vulnerabilities
-- 🤖 **Explore** AI/LLM Solutions and Use Cases for Web3
+- 🤖 **Explore** AI Agentic Solutions in Web3
 
 ---
 
