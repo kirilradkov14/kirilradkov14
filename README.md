@@ -1,12 +1,3 @@
-## 🔧 What I Do
-
-- 📝 **Write** Smart Contracts on Ethereum
-- 💸 **Build** Scalable DeFi Architecture and dApps
-- 🔍 **Discover** Smart Contract Security Vulnerabilities
-- 🤖 **Explore** AI Agentic Solutions in Web3
-
----
-
 ## Tech Stack
 
 ### **Web3**
